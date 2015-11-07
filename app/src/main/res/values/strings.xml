@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FavoriteAuthorsBirthplace</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Good reads api key /-->
+    <string name="goodreads_key">EaPibqDZ36foPqfH5W5Q</string>
+
+    <!-- accounts and services /-->
+    <string name="content_authority">se.frand.app.favoriteauthorsbirthplace</string>
+    <string name="sync_account_type">favoriteauthorsbirthplace.frand.se</string>
+    <string name="preferences_file_name">authors_preferences</string>
+    <string name="goodreads_username_or_id_key">goodreads_username_or_id</string>
+</resources>
